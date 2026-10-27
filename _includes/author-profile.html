@@ -10,7 +10,10 @@
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}"  fetchpriority="high" />
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"  fetchpriority="high" />
+      {% comment %}Refresh local avatars after every build, even when the filename is reused.{% endcomment %}
+      {% assign avatar_query_separator = "?" %}
+      {% if author.avatar contains "?" %}{% assign avatar_query_separator = "&amp;" %}{% endif %}
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}{{ avatar_query_separator }}v={{ site.time | date: '%s' }}" class="author__avatar" alt="{{ author.name }}"  fetchpriority="high" />
     {% endif %}
   </div>
 
