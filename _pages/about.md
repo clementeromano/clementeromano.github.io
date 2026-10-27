@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Clemente Romano"
-description: "Quantitative finance, machine learning, and signature methods, with a background in mathematical analysis."
+description: "Clemente Romano, a third-year mathematics PhD student at NYU Courant, with interests in signature methods, machine learning, and quantitative finance."
 author_profile: true
 redirect_from:
   - /about/
@@ -10,9 +10,9 @@ redirect_from:
 
 **Page under construction**
 
-I'm Clemente Romano. My current work is in quantitative finance under the supervision of [Prof. Petter Kolm](https://math-finance.cims.nyu.edu/team/petter-n-kolm/).
+Hi! I'm Clemente Romano, a third-year PhD student in mathematics at NYU's Courant Institute. My advisor is [Prof. Petter Kolm](https://math-finance.cims.nyu.edu/team/petter-n-kolm/).
 
-I am particularly interested in applications of signature methods to machine learning and quantitative finance, while maintaining broad interests across mathematics and its applications.
+My research interests span machine learning and quantitative finance, with a particular focus on signature methods. My current projects explore signature-based approaches to stochastic filtering and optimal trade execution.
 
 ## Background
 
