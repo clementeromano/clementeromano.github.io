@@ -22,6 +22,12 @@ Before moving into quantitative finance, my interests centered on mathematical a
 
 ## Selected work
 
+### Signature optimal execution
+
+A project on signature methods for optimal execution in quantitative finance.
+
+[Explore the repository](https://github.com/clementeromano/signature-optimal-execution)
+
 ### Kalman filtering with signatures
 
 A numerical reproduction exploring how linear signature regression can recover the continuous-time Kalman-Bucy filter.

@@ -6,6 +6,16 @@ description: "Code and research projects by Clemente Romano."
 author_profile: true
 ---
 
+## Signature optimal execution
+
+**Signature methods · Optimal execution · Quantitative finance**
+
+Signature methods applied to optimal execution in quantitative finance.
+
+[View the repository](https://github.com/clementeromano/signature-optimal-execution)
+
+---
+
 ## Kalman filtering with signatures
 
 **Stochastic filtering · Signature methods · Jupyter Notebook**
