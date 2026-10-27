@@ -10,7 +10,7 @@ redirect_from:
 
 **Page under construction**
 
-I'm Clemente Romano. My current work is in quantitative finance under the supervision of [Prof. Petter Kolm](https://math.nyu.edu/people/profiles/KOLM_Petter.html).
+I'm Clemente Romano. My current work is in quantitative finance under the supervision of [Prof. Petter Kolm](https://math-finance.cims.nyu.edu/team/petter-n-kolm/).
 
 I am particularly interested in applications of signature methods to machine learning and quantitative finance, while maintaining broad interests across mathematics and its applications.
 
