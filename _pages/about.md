@@ -1,14 +1,24 @@
 ---
 permalink: /
 title: "Clemente Romano"
-description: "Projects in mathematical finance, stochastic filtering, and prediction-market data."
+description: "Quantitative finance, machine learning, and signature methods, with a background in mathematical analysis."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm Clemente Romano. My projects bring together mathematics, statistical modeling, and programming, with a focus on stochastic filtering and prediction-market data.
+**Page under construction**
+
+I'm Clemente Romano. My current work is in quantitative finance under the supervision of [Prof. Petter Kolm](https://math.nyu.edu/people/profiles/KOLM_Petter.html).
+
+I am particularly interested in applications of signature methods to machine learning and quantitative finance, while maintaining broad interests across mathematics and its applications.
+
+## Background
+
+I studied mathematics at the University of Naples Federico II, where I completed a bachelor's thesis on Sobolev spaces under the supervision of Prof. Nicola Fusco. I continued my mathematical training through the joint program at the University of Trieste and SISSA.
+
+Before moving into quantitative finance, my interests centered on mathematical analysis, including harmonic analysis, geometric measure theory, the calculus of variations, and partial differential equations.
 
 ## Selected work
 

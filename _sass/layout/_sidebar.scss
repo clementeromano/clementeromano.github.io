@@ -154,8 +154,12 @@
   }
 
   img {
+    width: 100%;
     max-width: 175px;
+    aspect-ratio: 1;
+    object-fit: cover;
     border-radius: 50%;
+    transform: rotate(var(--avatar-rotation, 0deg));
 
     @include breakpoint($large) {
       padding: 5px;

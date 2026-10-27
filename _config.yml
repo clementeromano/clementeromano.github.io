@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Clemente Romano"
 title_separator          : "-"
 name                     : &name "Clemente Romano"
-description              : &description "Clemente Romano's projects in mathematical finance, stochastic filtering, and prediction-market data."
+description              : &description "Clemente Romano's work in quantitative finance, machine learning, and signature methods, with a background in mathematical analysis."
 url                      : https://clementeromano.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,10 @@ repository               : "clementeromano/clementeromano.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
+  avatar_rotation  : -90
   name             : "Clemente Romano"
   pronouns         : "he/him"  
-  bio              : "Mathematical finance and quantitative research."
+  bio              : "Quantitative finance, machine learning, and signature methods."
   location         : "New York, NY"
   employer         : "New York University"
   uri              : # URL
