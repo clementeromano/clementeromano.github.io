@@ -22,9 +22,9 @@ Before moving into quantitative finance, my interests centered on mathematical a
 
 ## Selected work
 
-### Signature optimal execution
+### Signature-based optimal execution
 
-A project on signature methods for optimal execution in quantitative finance.
+A Python framework using path signatures and symbolic shuffle algebra to construct and solve quadratic optimal-execution objectives.
 
 [Explore the repository](https://github.com/clementeromano/signature-optimal-execution)
 
