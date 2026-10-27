@@ -14,6 +14,8 @@ Hi! I'm Clemente Romano, a third-year PhD student in mathematics at NYU's Couran
 
 My research interests span machine learning and quantitative finance, with a particular focus on signature methods. My current projects explore signature-based approaches to stochastic filtering and optimal trade execution.
 
+I was awarded the [Jeffrey and Denise Rosenbluth Fellowship](https://cims.nyu.edu/dynamic/academics/student_recognition/) in [2025](https://cims.nyu.edu/dynamic/events/4416/) and 2026.
+
 ## Background
 
 I studied mathematics at the University of Naples Federico II, where I completed a bachelor's thesis on Sobolev spaces under the supervision of Prof. Nicola Fusco. I continued my mathematical training through the joint program at the University of Trieste and SISSA.
