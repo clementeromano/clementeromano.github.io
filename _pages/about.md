@@ -14,13 +14,17 @@ Hi! I'm Clemente Romano, a third-year PhD student in mathematics at NYU's Couran
 
 I am interested in applications of signature features to machine learning and quantitative finance, as well as optimal control and volatility forecasting. My current projects focus on stochastic filtering and optimal trade execution.
 
-I was awarded the [Jeffrey and Denise Rosenbluth Fellowship](https://cims.nyu.edu/dynamic/academics/student_recognition/) in [2025](https://cims.nyu.edu/dynamic/events/4416/) and 2026.
-
 ## Background
 
-I earned my BSc in mathematics at the University of Naples Federico II and my MSc in mathematics at the University of Trieste through its [joint educational program with SISSA](https://www.math.sissa.it/content/msc-mathematics/index.html). I graduated with the highest honors, 110/110 cum laude, in both degrees. My bachelor's thesis on Sobolev spaces was supervised by Prof. Nicola Fusco; my master's thesis on the Kakeya conjecture was supervised by Prof. Guido De Philippis. During my MSc, I held a competitive SISSA fellowship and was also a fellow of Collegio Universitario Luciano Fonda.
+I earned my BSc in mathematics at the University of Naples Federico II and my MSc in mathematics at the University of Trieste through its [joint educational program with SISSA](https://www.math.sissa.it/content/msc-mathematics/index.html). I graduated with the highest honors, 110/110 cum laude, in both degrees. My bachelor's thesis on Sobolev spaces was supervised by Prof. Nicola Fusco; my master's thesis on the Kakeya conjecture was supervised by Prof. Guido De Philippis.
 
 I came to NYU with interests in harmonic analysis and geometric measure theory, and gradually shifted my focus toward mathematical finance. Alongside my research, I have taken courses in NYU's Mathematics in Finance program and served as a TA and grader for courses in the program.
+
+## Honors and Fellowships
+
+- **[Jeffrey and Denise Rosenbluth Fellowship](https://cims.nyu.edu/dynamic/academics/student_recognition/)** — NYU Courant, [2025](https://cims.nyu.edu/dynamic/events/4416/) and 2026.
+- **SISSA Fellowship** — Competitive fellowship supporting my MSc studies in the SISSA–University of Trieste joint educational program.
+- **Collegio Universitario Luciano Fonda** — Fellow during my master's studies.
 
 ## Selected work
 
@@ -44,4 +48,4 @@ ATP tennis data collection and cross-exchange arbitrage research using Polymarke
 
 ## Explore
 
-[Read about my projects]({{ '/projects/' | relative_url }}) or [browse my code on GitHub](https://github.com/clementeromano).
+[Read about my projects]({{ '/projects/' | relative_url }}), [browse my code on GitHub](https://github.com/clementeromano), or [connect on LinkedIn](https://www.linkedin.com/in/clementeromano/).
